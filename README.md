@@ -4,8 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Vishav%20Rana&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20and%20AI%2FML%20Student&descSize=25&descAlignY=60" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=Computer+Science+and+AI/ML;Student+At+Punjab+University;%26+AI%2FML+Enthusiast+(IIT+Roorkee+%26+Intellipaat))](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=31A8FF&center=true&vCenter=true&width=700&lines=Computer+Science+and+AI%2FML+Student;Student+at+Panjab+University;AI%2FML+Enthusiast+%7C+IIT+Roorkee+%26+Intellipaat)](https://git.io/typing-svg)
 
 <br>
 
@@ -28,11 +27,11 @@ I'm a BCA student passionate about **backend development** and **AI/ML**, and I 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" width="35" height="35">
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/su.sid.al" target="_blank">
+<a href="" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
 </a>
 &nbsp;&nbsp;
-<a href="https://x.com/SiddheshGoel" target="_blank">
+<a href="https://x.com/CaptainYT333" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="35" width="35" />
 </a>
 &nbsp;&nbsp;
