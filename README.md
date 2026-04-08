@@ -24,8 +24,8 @@ I'm a BCA student passionate about **backend development** and **AI/ML**, and I 
 
 # 🌐 Socials
 
-<a href="https://linkedin.com/in/siddheshgoel" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
+<a href="https://www.linkedin.com/in/vishav-rana-19a242371/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" width="35" height="35">
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/su.sid.al" target="_blank">
@@ -36,7 +36,7 @@ I'm a BCA student passionate about **backend development** and **AI/ML**, and I 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="35" width="35" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:soelnvc@gmail.com">
+<a href="mailto:vishavrana333@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" height="35" width="35" />
 </a>
 
