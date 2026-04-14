@@ -12,7 +12,20 @@
 <br>
 
 # 💫 About Me:
-I'm a BCA student passionate about **backend development** and **AI/ML**, and I enjoy building projects and exploring new ideas.<br>
+🚀 Aspiring Software Engineer with focus on AI/ML & Data Science
+💻 Strong in Python, Django, and Backend Development
+📊 Skilled in Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)
+🤖 Learning and building projects in Machine Learning
+🗄️ Experience with SQL & SQLite databases
+🔧 Developed projects like:
+📈 Sales Prediction System (ML + Backend)
+📊 Exploratory Data Analysis (EDA Projects)
+🛒 E-commerce Website using Django
+📚 Currently learning Data Structures & Algorithms + Advanced ML
+🎯 Goal: To become a skilled AI/ML Engineer & Software Developer
+💡 Interested in solving real-world problems using data & technology
+<div align="center">  👉 Turning data into insights & ideas into real-world applications   </div>
+
 
 <br>
 
@@ -57,7 +70,8 @@ I'm a BCA student passionate about **backend development** and **AI/ML**, and I 
 | **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Jinja](https://img.shields.io/badge/-Jinja-white?style=flat&logo=jinja&logoColor=black) |
 | **AI/ML & Data** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DD0031?style=flat&logo=redis&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) | ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
 | **Design** | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 
 <br>
@@ -73,6 +87,7 @@ I'm a BCA student passionate about **backend development** and **AI/ML**, and I 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VIS030&theme=tokyonight)
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vis030&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
 
