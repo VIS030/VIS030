@@ -13,18 +13,20 @@
 
 # 💫 About Me:
 🚀 Aspiring Software Engineer with focus on AI/ML & Data Science
-💻 Strong in Python, Django, and Backend Development
-📊 Skilled in Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)
-🤖 Learning and building projects in Machine Learning
-🗄️ Experience with SQL & SQLite databases
-🔧 Developed projects like:
-📈 Sales Prediction System (ML + Backend)
-📊 Exploratory Data Analysis (EDA Projects)
-🛒 E-commerce Website using Django
-📚 Currently learning Data Structures & Algorithms + Advanced ML
-🎯 Goal: To become a skilled AI/ML Engineer & Software Developer
-💡 Interested in solving real-world problems using data & technology
-<div align="center">  👉 Turning data into insights & ideas into real-world applications   </div>
+
+• 💻 Strong in Python, Django, and Backend Development  
+• 📊 Skilled in Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)  
+• 🤖 Learning and building projects in Machine Learning  
+• 🗄️ Experience with SQL & SQLite databases  
+• 🔧 Developed projects:
+   • 📈 Sales Prediction System  
+   • 📊 Exploratory Data Analysis (EDA)  
+   • 🛒 E-commerce Website using Django  
+• 📚 Currently learning Data Structures & Algorithms + Advanced ML  
+• 🎯 Goal: AI/ML Engineer & Software Developer  
+• 💡 Interested in solving real-world problems using data  
+
+<div align="center"> 👉 Turning data into insights & ideas into real-world applications </div>
 
 
 <br>
