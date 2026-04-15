@@ -8,23 +8,27 @@
 
 ---
 
+<div align="center">
+
 # 💫 About Me
+
+</div>
 
 <div align="left">
 
-🚀 Aspiring Software Engineer focused on AI/ML & Data Science
+* 🚀 Aspiring Software Engineer focused on AI/ML & Data Science
+* 💻 Strong in Python, Django, and Backend Development
+* 📊 Skilled in Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)
+* 🤖 Building projects in Machine Learning
+* 🗄️ Experience with SQL & SQLite
+* 🔧 Projects:
 
-• 💻 Strong in Python, Django, and Backend Development
-• 📊 Skilled in Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)
-• 🤖 Building projects in Machine Learning
-• 🗄️ Experience with SQL & SQLite
-• 🔧 Projects:
-• 📈 Sales Prediction System
-• 📊 Exploratory Data Analysis (EDA)
-• 🛒 E-commerce Website (Django)
-• 📚 Currently learning Data Structures & Algorithms + Advanced ML
-• 🎯 Goal: AI/ML Engineer & Software Developer
-• 💡 Passionate about solving real-world problems using data
+  * 📈 Sales Prediction System
+  * 📊 Exploratory Data Analysis (EDA)
+  * 🛒 E-commerce Website (Django)
+* 📚 Currently learning Data Structures & Algorithms + Advanced ML
+* 🎯 Goal: AI/ML Engineer & Software Developer
+* 💡 Passionate about solving real-world problems using data
 
 </div>
 
@@ -36,9 +40,9 @@
 
 ---
 
-# 🌐 Socials
-
 <div align="center">
+
+# 🌐 Socials
 
 <a href="https://www.linkedin.com/in/vishav-rana-19a242371/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35">
@@ -56,9 +60,9 @@
 
 ---
 
-# 💻 My Toolbox
-
 <div align="center">
+
+# 💻 My Toolbox
 
 ### 👨‍💻 Languages
 
@@ -107,9 +111,9 @@
 
 ---
 
-# 📊 GitHub Stats
-
 <div align="center">
+
+# 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VIS030\&theme=tokyonight)
 
@@ -119,9 +123,9 @@
 
 ---
 
-# ✍️ Quote
-
 <div align="center">
+
+# ✍️ Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
 
