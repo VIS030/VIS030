@@ -1,8 +1,21 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Vishav%20Rana&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20and%20AI%2FML%20Student&descSize=25&descAlignY=60" width="100%" />
+# 👋 Hi, I'm VIS
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=20\&pause=1000\&color=31A8FF\&center=true\&vCenter=true\&width=700\&lines=Computer+Science+and+AI%2FML+Student;Student+at+Panjab+University;AI%2FML+Enthusiast+%7C+IIT+Roorkee+%26+Intellipaat)](https://git.io/typing-svg)
+### AI/ML Enthusiast · Python Developer · BCA Student · Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=AI%2FML+%26+GenAI+Enthusiast;Building+Real-World+AI+Applications;Python+%7C+FastAPI+%7C+PostgreSQL;Learning+LLMs%2C+RAG+%26+AI+Agents;BCA+Final+Year+Student" alt="Typing SVG" />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIS030)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=VIS030&label=Profile%20Views&color=0077B5&style=for-the-badge)
 
 </div>
 
@@ -10,123 +23,307 @@
 
 <div align="center">
 
-# 💫 About Me
+### 🚀
 
-</div>
-
-<div align="left">
-
-* 🚀 Aspiring Software Engineer focused on AI/ML & Data Science
-* 💻 Strong in Python, Django, and Backend Development
-* 📊 Skilled in Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)
-* 🤖 Building projects in Machine Learning
-* 🗄️ Experience with SQL & SQLite
-* 🔧 Projects:
-
-  * 📈 Sales Prediction System
-  * 📊 Exploratory Data Analysis (EDA)
-  * 🛒 E-commerce Website (Django)
-* 📚 Currently learning Data Structures & Algorithms + Advanced ML
-* 🎯 Goal: AI/ML Engineer & Software Developer
-* 💡 Passionate about solving real-world problems using data
-
-</div>
-
-<div align="center">
-
-👉 Turning data into insights & ideas into real-world applications
+*"Building my way from Python and Machine Learning to production-ready AI systems."*
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 👋 About Me
+
+I'm a **BCA Final Year student** passionate about **Artificial Intelligence, Machine Learning, Backend Development and Generative AI**.
+
+I enjoy turning ideas into working applications — from **AI/ML models and APIs** to complete full-stack projects.
+
+Currently, I'm focusing on building a strong foundation in:
+
+- 🐍 **Python & Backend Development**
+- 🤖 **Machine Learning & Deep Learning**
+- 🧠 **Generative AI & LLMs**
+- 🔎 **RAG (Retrieval-Augmented Generation)**
+- 🤝 **AI Agents & Agentic AI**
+- 🗄️ **PostgreSQL & Data Engineering basics**
+- ⚡ **FastAPI & REST APIs**
+- 🚀 **Deployment & Production AI Applications**
+
+I'm also actively building projects that I can showcase in my **portfolio and resume**.
+
+</td>
+
+<td width="40%" valign="top">
+
+## ⚡ At a Glance
+
+```yaml
+name: VIS
+education: BCA
+status: Final Year Student
+
+focus:
+  - AI/ML
+  - Generative AI
+  - Backend Development
+
+languages:
+  - Python
+  - SQL
+  - JavaScript
+
+backend:
+  - FastAPI
+  - Django
+  - REST APIs
+
+databases:
+  - PostgreSQL
+  - MySQL
+  - SQLite
+
+currently_learning:
+  - Deep Learning
+  - Transformers
+  - LLMs
+  - RAG
+  - AI Agents
+````
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔭 Currently Building & Learning
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛠️ Building
+
+* 💳 **Credit Card Fraud Detection AI/ML**
+* 🏡 **EcoStay — Homestay Booking Platform**
+* 🏔️ **SummitGear — Outdoor Gear E-Commerce**
+* ⚡ AI-powered APIs using **FastAPI**
+* 🗄️ Backend systems with **PostgreSQL**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Learning
+
+* 🧠 **Deep Learning**
+* 🔄 **Transformers**
+* 🤖 **LLMs & Generative AI**
+* 🔎 **RAG Systems**
+* 🤝 **AI Agents**
+* 🧩 **DSA & Problem Solving**
+* ☁️ **Deployment & Cloud**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
 <div align="center">
 
-# 🌐 Socials
+### 🐍 Languages
 
-<a href="https://www.linkedin.com/in/vishav-rana-19a242371/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+
+<br><br>
+
+### 🤖 AI / ML / Data Science
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+
+<br><br>
+
+### ⚡ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+
+<br><br>
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+
+<br><br>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🧬 GenAI · LLM · RAG · AI Agents
+
+![LLM](https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge\&logo=openai\&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=for-the-badge\&logo=databricks\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge\&logo=langchain\&logoColor=white)
+![Agents](https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge\&logo=robotframework\&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/VIS030">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIS030&repo=YOUR_FRAUD_REPO&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2" />
 </a>
-&nbsp;&nbsp;
-<a href="https://x.com/CaptainYT333" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35">
-</a>
-&nbsp;&nbsp;
-<a href="mailto:vishavrana333@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="35">
+
+<a href="https://github.com/VIS030/ecostay-booking-platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VIS030&repo=ecostay-booking-platform&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2" />
 </a>
 
 </div>
 
+### 💳 Credit Card Fraud Detection AI/ML
+
+An AI/ML project designed to detect potentially fraudulent credit card transactions using machine learning.
+
+**Tech:** Python · Machine Learning · Scikit-learn · FastAPI · PostgreSQL
+
 ---
+
+### 🏡 EcoStay — Homestay Booking Platform
+
+A modern homestay booking platform built as part of my internship project.
+
+**Tech:** React · Vite · JavaScript · Tailwind CSS · Backend APIs
+
+🔗 [View Repository](https://github.com/VIS030/ecostay-booking-platform)
+
+---
+
+### 🏔️ SummitGear — Outdoor Gear E-Commerce
+
+A full-stack e-commerce platform focused on hiking, trekking and mountaineering equipment.
+
+**Tech:** Django · Python · PostgreSQL · Tailwind CSS
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-# 💻 My Toolbox
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VIS030&show_icons=true&theme=react&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"/>
 
-### 👨‍💻 Languages
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIS030&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<br><br>
 
-### 🎨 Frontend
+<img src="https://streak-stats.demolab.com?user=VIS030&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF" />
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<br><br>
 
-### ⚙️ Backend
-
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Jinja](https://img.shields.io/badge/-Jinja-white?style=for-the-badge\&logo=jinja\&logoColor=black)
-
-### 🤖 AI/ML & Data
-
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-white?style=for-the-badge\&logo=matplotlib\&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DD0031?style=for-the-badge\&logo=redis\&logoColor=white)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)
-
-### 🎨 Design
-
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIS030&theme=github_dark" width="100%" />
 
 </div>
 
 ---
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-# 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VIS030\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vis030\&theme=dark\&layout=compact)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIS030&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
+## 🐍 Watch My Contributions Get Eaten
+
 <div align="center">
 
-# ✍️ Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIS030/VIS030/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIS030/VIS030/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/VIS030/VIS030/output/github-snake.svg">
+</picture>
 
 </div>
+
+---
+
+## 🎯 My AI Journey
+
+```text
+Python
+   ↓
+Data Structures & Algorithms
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Transformers
+   ↓
+LLMs
+   ↓
+RAG
+   ↓
+AI Agents
+   ↓
+Production AI Applications 🚀
+```
+
+---
+
+## 📚 What I'm Working Towards
+
+* 🎓 Complete my **BCA**
+* 💼 Become a strong **AI/ML / AI Engineer candidate**
+* 🧠 Build production-ready **AI applications**
+* 🚀 Develop strong **Python + Backend** skills
+* 🤖 Build practical **LLM, RAG & Agentic AI projects**
+* 🧩 Improve **DSA & problem solving**
+* 🌍 Contribute to **open-source projects**
+* 📂 Build a strong **GitHub portfolio**
+
+---
+
+<div align="center">
+
+### 🚀 Keep Learning. Keep Building. Keep Shipping.
+
+<br>
+
+⭐ If you find my projects useful, consider giving them a star!
+
+<br>
+
+**Thanks for visiting my profile!**
+
+</div>
+```
+
