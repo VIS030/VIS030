@@ -226,74 +226,20 @@ learning:    RAG, AI Agents, DSA
 <!-- ============================================================ -->
 <!--                  GITHUB METRICS & STATS                      -->
 <!-- ============================================================ -->
-
 ## 📊 GitHub Metrics & Stats Dashboard
 
 <div align="center">
 
-<a href="https://github.com/VIS030">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIS030&theme=github_dark" width="100%" alt="profile summary"/>
 
-<img
-height="170em"
-src="https://github-stats-extended.vercel.app/api?username=VIS030&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"
-alt="GitHub Stats"
-/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIS030&theme=github_dark" alt="repos per language"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VIS030&theme=github_dark&utcOffset=5.5" alt="productive time"/>
 
-<img
-height="170em"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=VIS030&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"
-alt="Top Languages"
-/>
+<br/><br/>
 
-</a>
-
-<br><br>
-
-<a href="https://github.com/VIS030">
-
-<img
-src="https://github-stats-extended.vercel.app/api/streak?username=VIS030&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FFD700&currStreakLabel=58A6FF"
-alt="GitHub Streak"
-/>
-
-</a>
-
-<br><br>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIS030&theme=github_dark"
-width="100%"
-alt="GitHub Profile Summary"
-/>
-
-<br><br>
-
-<img
-height="200em"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIS030&theme=github_dark"
-alt="Repositories Per Language"
-/>
-
-<img
-height="200em"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VIS030&theme=github_dark&utcOffset=5.5"
-alt="Productive Time"
-/>
-
-<br><br>
-
-<a href="https://github.com/VIS030">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=VIS030&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true"
-width="100%"
-alt="GitHub Activity Graph"
-/>
-
-</a>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VIS030&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/VIS030)
 
 </div>
-
 
 <!-- ============================================================ -->
 <!--                     CONTRIBUTION SNAKE                       -->
