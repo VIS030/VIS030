@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-# Ashish Patel
+# Vishav Rana
 
 #### AI Engineer · Open Source Builder · Author · Technical Content Creator
 
