@@ -64,11 +64,11 @@ internship:  TBI-GEU (Frontend/React)
 languages:   Python, JavaScript, SQL
 ai_stack:    TensorFlow, PyTorch, LLMs
 learning:    RAG, AI Agents, DSA
-
+```
 </td>
 </tr>
 </table>
-
+---
 <!-- ============================================================ -->
 <!--                          TECH STACK                          -->
 <!-- ============================================================ -->
