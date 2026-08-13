@@ -221,7 +221,6 @@ learning:    RAG, AI Agents, DSA
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-1A1A2E?style=flat-square&logo=robotframework&logoColor=white)
 
 </div>
----
 
 <!-- ============================================================ -->
 <!--                  GITHUB METRICS & STATS                      -->
@@ -231,27 +230,56 @@ learning:    RAG, AI Agents, DSA
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VIS030&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=VIS030&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"
+alt="GitHub Stats"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIS030&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-
-<br><br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VIS030&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIS030&theme=github_dark" width="100%" alt="profile summary"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIS030&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"
+alt="Top Languages"/>
 
 <br><br>
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIS030&theme=github_dark" alt="repos per language"/>
-
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VIS030&theme=github_dark&utcOffset=5.5" alt="productive time"/>
+<a href="https://git.io/streak-stats">
+<img
+src="https://streak-stats.demolab.com?user=VIS030&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=FFD700&currStreakLabel=58A6FF"
+alt="GitHub Streak"
+/>
+</a>
 
 <br><br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VIS030&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/VIS030)
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VIS030&theme=github_dark"
+width="100%"
+alt="GitHub Profile Summary"
+/>
+
+<br><br>
+
+<img
+height="200em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIS030&theme=github_dark"
+alt="Repositories Per Language"
+/>
+
+<img
+height="200em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VIS030&theme=github_dark&utcOffset=5.5"
+alt="Productive Time"
+/>
+
+<br><br>
+
+<a href="https://github.com/VIS030">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=VIS030&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true"
+width="100%"
+alt="GitHub Activity Graph"
+/>
+
+</a>
 
 </div>
 
@@ -260,18 +288,30 @@ learning:    RAG, AI Agents, DSA
 <!--                     CONTRIBUTION SNAKE                       -->
 <!-- ============================================================ -->
 
-### 🐍 Watch My Contributions Get Eaten
+## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIS030/VIS030/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIS030/VIS030/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/VIS030/VIS030/output/github-snake.svg" />
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VIS030/VIS030/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/VIS030/VIS030/output/github-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/VIS030/VIS030/output/github-snake.svg"
+  />
+
 </picture>
 
 </div>
----
 
 <!-- ============================================================ -->
 <!--                            QUOTE                             -->
