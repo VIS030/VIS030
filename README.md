@@ -73,82 +73,136 @@ learning:    RAG, AI Agents, DSA
 <!--                          TECH STACK                          -->
 <!-- ============================================================ -->
 
+<!-- ============================================================ -->
+<!--                          TECH STACK                          -->
+<!-- ============================================================ -->
+
 ## 🧰 Tech Stack
 
 <div align="center">
 
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="58" height="58" />
   &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="58" height="58" />
+  &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="58" height="58" />
   &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="58" height="58" />
   &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="58" height="58" />
-  
+
 </div>
 
 <br/>
 
 <table align="center">
+
 <tr>
 <td align="right" width="190"><b>🧠 Languages & Core</b></td>
 <td>
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark&animate=true" width="48" height="48" alt="java" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=js&theme=dark&animate=true" width="48" height="48" alt="javascript" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html&theme=dark&animate=true" width="48" height="48" alt="html" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=dark&animate=true" width="48" height="48" alt="css" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sql&theme=dark&animate=true" width="48" height="48" alt="sql" />
+
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="48" alt="sql" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
+
 </td>
 </tr>
 
 <tr>
 <td align="right"><b>🤖 AI / ML / DL</b></td>
 <td>
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark&animate=true" width="48" height="48" alt="scikit-learn" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark&animate=true" width="48" height="48" alt="tensorflow" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark&animate=true" width="48" height="48" alt="pytorch" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark&animate=true" width="48" height="48" alt="opencv" />
+
+</td>
+</tr>
+
+<tr>
+<td align="right"><b>📊 Data & Analytics</b></td>
+<td>
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark&animate=true" width="48" height="48" alt="numpy" />
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark&animate=true" width="48" height="48" alt="pandas" />
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark&animate=true" width="48" height="48" alt="matplotlib" />
+
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" alt="power bi" />
+
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="48" alt="excel" />
+
 </td>
 </tr>
 
 <tr>
 <td align="right"><b>⚡ Backend & APIs</b></td>
 <td>
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=django&theme=dark&animate=true" width="48" height="48" alt="django" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark&animate=true" width="48" height="48" alt="fastapi" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark&animate=true" width="48" height="48" alt="nodejs" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=express&theme=dark&animate=true" width="48" height="48" alt="express" />
+
 </td>
 </tr>
 
 <tr>
 <td align="right"><b>🌐 Frontend</b></td>
 <td>
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark&animate=true" width="48" height="48" alt="react" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vite&theme=dark&animate=true" width="48" height="48" alt="vite" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark&animate=true" width="48" height="48" alt="tailwind css" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs&theme=dark&animate=true" width="48" height="48" alt="nextjs" />
+
 </td>
 </tr>
 
 <tr>
 <td align="right"><b>🗄️ Databases</b></td>
 <td>
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark&animate=true" width="48" height="48" alt="postgresql" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark&animate=true" width="48" height="48" alt="mysql" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite&theme=dark&animate=true" width="48" height="48" alt="sqlite" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark&animate=true" width="48" height="48" alt="mongodb" />
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=redis&theme=dark&animate=true" width="48" height="48" alt="redis" />
+
 </td>
 </tr>
 
 <tr>
 <td align="right"><b>🛠️ Tools & Development</b></td>
 <td>
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark&animate=true" width="48" height="48" alt="github" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark&animate=true" width="48" height="48" alt="visual studio code" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark&animate=true" width="48" height="48" alt="postman" />
+
   <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark&animate=true" width="48" height="48" alt="google colab" />
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=idea&theme=dark&animate=true" width="48" height="48" alt="intellij idea" />
+
 </td>
 </tr>
 
