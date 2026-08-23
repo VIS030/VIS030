@@ -42,7 +42,7 @@
 <tr>
 <td width="60%" valign="top">
 
-## 👋 Who I Am
+## 👋 Who I Am nnn
 
 I'm **Vishav Rana**, a BCA final-year student with a strong focus on transitioning into an **AI/ML Engineer** role. I specialize in building robust intelligent applications using **Python** and **FastAPI**, while deeply exploring the world of Generative AI.
 
